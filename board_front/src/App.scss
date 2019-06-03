@@ -1,0 +1,33 @@
+.app-header {
+  background-color: plum;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  .menu-bar {
+    list-style-type: none;
+    li {
+      float: left;
+      a {
+        color: white;
+        text-decoration: none;
+        padding: 16px;
+        display: block;
+        border-bottom: 3px solid bottom;
+
+        &:hover {
+          color: yellow;
+        }
+      }
+    }
+  }
+}
+
+
+.app-body {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 100px;
+}
