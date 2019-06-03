@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="293bcce5-4bd5-40ee-af9f-8494e64c278e" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/board_back/api_test.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Config/CORS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Controller/BoardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Controller/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Domain/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Domain/PostMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Domain/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/PostService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/PostServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/resources/mappers/Post.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/resources/mappers/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_back/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_front/src/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_front/src/Page1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_front/src/Page2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board_front/src/Page3/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/board_front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board_front/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/board_front/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board_front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/board_front/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/board_back/.gradle/" />
@@ -137,7 +116,7 @@
             <entry file="file://$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Controller/BoardController.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="304">
-                  <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+                  <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -149,7 +128,7 @@
             <entry file="file://$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/PostServiceImpl.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="89">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#954#955#0" expanded="true" />
@@ -191,7 +170,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/board_back" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -343,7 +322,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -430,18 +409,17 @@
       <workItem from="1557835488361" duration="40000" />
       <workItem from="1558412633148" duration="8130000" />
       <workItem from="1558568568551" duration="177000" />
-      <workItem from="1559535457420" duration="7673000" />
+      <workItem from="1559535457420" duration="8046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26028000" />
+    <option name="totallyTimeSpent" value="26401000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.17516778" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.17516778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -462,7 +440,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.22170901" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.2586605" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.25773194" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -519,6 +497,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/board_back" />
+      <path value="$PROJECT_DIR$/board_front" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/board_front/package.json">
@@ -742,7 +726,7 @@
     <entry file="file://$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Controller/BoardController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -762,7 +746,7 @@
     <entry file="file://$PROJECT_DIR$/board_back/src/main/java/kr/hs/dgsw/board_back/Service/PostServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#954#955#0" expanded="true" />
